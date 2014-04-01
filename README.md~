@@ -1,0 +1,1 @@
+This is a README file that outlines the structure of the entire project
